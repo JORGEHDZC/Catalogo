@@ -6,6 +6,13 @@
   font-style: normal;
 }
 
+.boxed_btn3_1 {
+  background: #F69D9D;
+  padding: 10px 16px;
+  font-size: 20px;
+  color: #fff;
+}
+
 /* =======================================================
 *
 * 	Template Style 
@@ -21,6 +28,11 @@ body {
   font-weight: 300;
   overflow-x: hidden;
 }
+
+.memories-img{
+  position: relative;
+}
+
 
 body.fh5co-offcanvas {
   overflow: hidden;
@@ -45,11 +57,19 @@ p, ul, ol {
   font-family: "Open Sans", Arial, sans-serif;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h2, h3, h4, h5, h6 {
   color: #5a5a5a;
   font-family: "Montez", cursive;
   font-weight: 400;
   margin: 0 0 30px 0;
+}
+
+
+h1 {
+  color: #ffffff;
+  font-family: "Montez", cursive;
+  font-weight: 400;
+  margin: 10px 0 30px 0;
 }
 
 figure {
